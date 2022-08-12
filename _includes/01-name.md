@@ -1,3 +1,3 @@
-# This is an <h1> header, which is the largest
-  This is an <h2> header, which is less larger
-  This is an <h6> header, which is the smallest
+# Exercise 
+<h2> An exercise from https://lab.github.com/ to work better with the GitHub environment
+
